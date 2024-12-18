@@ -3,3 +3,4 @@ obj/
 debug/
 .su
 .DS_Store
+.idea
